@@ -8,12 +8,12 @@ function gavin(){
     });
     var gene_spin = document.getElementById("gene_spin");
     gene_spin.addEventListener("click", function() {
-      var zoggy = new Audio("https://cdn.discordapp.com/attachments/1013113130546634765/1084226857190305862/zoggy_2.wav");
+      var zoggy = new Audio("chaos/dancerb.wav");
       zoggy.play();
     });
     var gph = document.getElementById("gph");
     gph.addEventListener("click", function() {
-      var urb = new Audio("https://cdn.discordapp.com/attachments/1081314232445980692/1084230999384268810/Audio_2023-03-11_214639.wav");
+      var urb = new Audio("chaos/alexandroff.ogg");
       urb.play();
     });
     var baoshan = document.getElementById("baoshan");
@@ -28,27 +28,27 @@ function gavin(){
     });
     var gavin = document.getElementById("gavin");
     gavin.addEventListener("click", function() {
-      var blu = new Audio("https://cdn.discordapp.com/attachments/988148148667047946/1071520361683886190/Recording_5.m4a");
+      var blu = new Audio("chaos/Recording_5.mp3");
       blu.play();
     });
     var galaxy = document.getElementById("galaxy");
     galaxy.addEventListener("click", function() {
-      var monky = new Audio("https://cdn.discordapp.com/attachments/1081314232445980692/1084246630900969583/EmojiMovie689967892_2023-03-11_224852.wav");
+      var monky = new Audio("chaos/yay.mp3");
       monky.play();
     });
     var door = document.getElementById("door");
     door.addEventListener("click", function() {
-      var mietk = new Audio("https://cdn.discordapp.com/attachments/1081314232445980692/1084246849017368576/WIKITONGUES-_Keith_speaking_Maltese.webm.120p.vp9_2023-03-11_224941.wav");
+      var mietk = new Audio("chaos/kieth_malta.mp3");
       mietk.play();
     });
     var stanhope = document.getElementById("stanhope");
     stanhope.addEventListener("click", function() {
-      var audiotwo = new Audio("https://cdn.discordapp.com/attachments/1013113130546634765/1084249275506110564/bibinndabibinda.mp3");
+      var audiotwo = new Audio("chaos/like thanks.wav");
       audiotwo.play();
     });
     var stanhopewhen = document.getElementById("stanhope_when");
     stanhopewhen.addEventListener("click", function() {
-      var audiotwotwo = new Audio("https://cdn.discordapp.com/attachments/1013113130546634765/1084235734476656780/FullCombo_In.ogg");
+      var audiotwotwo = new Audio("chaos/TooBad_C.wav");
       audiotwotwo.play();
     });
 }
